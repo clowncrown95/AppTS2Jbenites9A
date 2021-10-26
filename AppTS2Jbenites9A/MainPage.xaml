@@ -16,6 +16,7 @@
                 </Grid.ColumnDefinitions>
                 <Label x:Name="lblUser" Text="Usuario" TextColor="White" FontSize="Small" Grid.Row="0" Grid.Column="0" />
                 <Label x:Name="lblPass" Text="Password" TextColor="White" FontSize="Small" Grid.Row="0" Grid.Column="1"/>
+                <Label Text="Conectado" TextColor="Green"/>
                 <Label Text="Tarea Semana 2 " TextColor="White" FontSize="Medium" Grid.Row="1" Grid.Column="0"/>
             </Grid>
         </Frame>
